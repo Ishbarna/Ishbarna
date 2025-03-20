@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishbarna&label=Profile%20views&color=0e75b6&style=flat" alt="ishbarna" /> </p>
 
-- 🔭 I’m currently Studying **Bachelor Of Computer Engineering**
+- 🔭 I’m currently Studying **Bachelor In Computer Engineering**
 
 - 🌱 I’m currently learning **Linux, penetration Testing, CTF**
 
