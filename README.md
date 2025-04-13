@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **Linux, penetration Testing, CTF**
 
-- 👨‍💻 All of my projects are available at [ishbarnakafle.com.np](ishbarnakafle.com.np)
-
+- 👨‍💻 All of my projects are available at GitHub
 - 📫 How to reach me **izzuser12@gmail.com**
 
 - ⚡ Fun fact **I am a computer engineer who blends cybersecurity, programming, and graphics design—making, I'm a rare mix of a hacker and an artist!**
