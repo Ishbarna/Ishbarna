@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishbarna</h1>
-<h3 align="center">👨‍💻 Engineering Student | Tech Explorer | Cybersecurity Enthusiast | Creative Designer</h3>
+<h3 align="center">👨‍💻 Engineering Student | Cybersecurity Enthusiast | Creative Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishbarna&label=Profile%20views&color=0e75b6&style=flat" alt="ishbarna" /> </p>
 
-- 🔭 I’m currently Studying **Bachelor Of Computer Engineering**
+- 🔭 I’m currently Studying **Bachelor In Computer Engineering**
 
 - 🌱 I’m currently learning **Linux, penetration Testing, CTF**
 
@@ -18,7 +18,6 @@
 <a href="https://twitter.com/ishbarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishbarna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishbarna-kafle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishbarna-kafle" height="30" width="40" /></a>
 <a href="https://medium.com/@izzuser12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@izzuser12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/izzuser12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="izzuser12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
