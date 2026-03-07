@@ -1,28 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ishbarna</h1>
-<h3 align="center">👨‍💻 Engineering Student | Cybersecurity Enthusiast | Creative Designer</h3>
+# ![Header](./banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishbarna&label=Profile%20views&color=0e75b6&style=flat" alt="ishbarna" /> </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=90&duration=5015&color=FF0000&width=435&lines=Cybersecurity+Enthusiast;Web+Application+Security;Offensive+Security;Security+Researcher;CTF+Player)
 
-- 🔭 I’m currently Studying **Bachelor In Computer Engineering**
+---
 
-- 🌱 I’m currently learning **Linux, penetration Testing, CTF**
+## Introduction
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+I’m **Ishbarna Kafle**, a **Security Researcher** focusing on **Web Application Security and VAPT**. I actively participate in **CTFs, bug bounties, and hands-on security research**.  
 
-- 📫 How to reach me **izzuser12@gmail.com**
+Currently pursuing a **Bachelor’s in Computer Engineering**, I focus on understanding how systems break so they can be made more secure. I’m passionate about **learning, responsible disclosure, and making the digital world safer.**
 
-- ⚡ Fun fact **I am a computer engineer who blends cybersecurity, programming, and graphics design—making, I'm a rare mix of a hacker and an artist!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ishbarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishbarna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ishbarna-kafle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishbarna-kafle" height="30" width="40" /></a>
-<a href="https://medium.com/@izzuser12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@izzuser12" height="30" width="40" /></a>
-</p>
+## Recognized By
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **NASA** – Responsible Disclosure Recognition
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishbarna&show_icons=true&locale=en&layout=compact" alt="ishbarna" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishbarna&show_icons=true&locale=en" alt="ishbarna" /></p>
+## Tech & Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-3AA3A3?logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-5C7AEA?logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://ishbarnakafle.com.np)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishbarna)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishbarna-kafle)  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ishbarna)  [![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6600?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/izzuser12)
+
+---
+
+⭐ *Exploring vulnerabilities and strengthening security.*
