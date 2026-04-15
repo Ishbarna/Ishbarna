@@ -14,7 +14,15 @@ Currently pursuing a **Bachelor’s in Computer Engineering**, I am passionate a
 
 ## Recognition
 
-- **NASA** – Responsible Disclosure Recognition
+<details>
+  <summary>NASA</summary>
+  Received an official recognition letter and Hall of Fame acknowledgment for responsible disclosure.
+</details>
+
+<details>
+  <summary>Avans Hogeschool</summary>
+  Received recognition letter for identifying and responsibly disclosing multiple security vulnerabilities.
+</details>
 
 ---
 
