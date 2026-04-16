@@ -15,13 +15,18 @@ Currently pursuing a **Bachelor’s in Computer Engineering**, I am passionate a
 ## Recognition
 
 <details>
-  <summary>NASA</summary>
+  <summary><strong>NASA</strong></summary>
   Received an official recognition letter and Hall of Fame acknowledgment for responsible disclosure.
 </details>
 
 <details>
-  <summary>Avans Hogeschool</summary>
-  Received recognition letter for identifying and responsibly disclosing multiple security vulnerabilities.
+  <summary><strong>Avans Hogeschool</strong></summary>
+Received recognition letter for identifying and responsibly disclosing security vulnerabilities.
+</details>
+
+<details>
+  <summary><strong>FlagForge</strong></summary>
+  Recognized for identifying and reporting security vulnerabilities.
 </details>
 
 ---
