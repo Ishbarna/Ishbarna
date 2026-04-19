@@ -33,9 +33,20 @@ Received recognition letter for identifying and responsibly disclosing security 
 
 ## Professional Certifications
 
-- **Certified Network Security Practitioner (CNSP)** – The SecOps Group  
-- **Certified Junior Web Application Penetration Tester (C-JWAPT)** – Sturtle Security  
-- **Certified Red Team Operations Management (CRTOM)** – RedTeamLeaders  
+<details>
+  <summary><strong>CNSP</strong></summary>
+  <strong>Certified Network Security Practitioner (CNSP)</strong> – The SecOps Group  
+</details>
+
+<details>
+  <summary><strong>C-JWAPT</strong></summary>
+  <strong>Certified Junior Web Application Penetration Tester (C-JWAPT)</strong> – Sturtle Security  
+</details>
+
+<details>
+  <summary><strong>CRTOM</strong></summary>
+  <strong>Certified Red Team Operations Management (CRTOM)</strong> – RedTeamLeaders  
+</details>
 
 ---
 
