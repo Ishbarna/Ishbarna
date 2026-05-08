@@ -34,6 +34,11 @@ Received recognition letter for identifying and responsibly disclosing security 
 ## Professional Certifications
 
 <details>
+  <summary><strong>CCEP</strong></summary>
+  <strong>Certified Cybersecurity Educator Professional (CCEP)</strong> – RedTeamLeaders  
+</details>
+
+<details>
   <summary><strong>CNSP</strong></summary>
   <strong>Certified Network Security Practitioner (CNSP)</strong> – The SecOps Group  
 </details>
