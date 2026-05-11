@@ -25,6 +25,11 @@ Received recognition letter for identifying and responsibly disclosing security 
 </details>
 
 <details>
+  <summary><strong>industry.gov.au</strong></summary>
+  Acknowledged and listed in the Hall of Fame for responsibly identifying and reporting a security vulnerability in the Department of Industry, Science and Resources (Australian Government).
+</details>
+
+<details>
   <summary><strong>FlagForge</strong></summary>
   Recognized for identifying and reporting security vulnerabilities.
 </details>
